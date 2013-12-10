@@ -1,22 +1,30 @@
-## The largest database of geonames (counties, regions, areas and locates) with translations.
-_**Version**_  _1.2_
+## The largest database of geonames (counties, regions, areas and locates) with translations.<br>
+_**Version**_  _0.4_
 
 
-**Stats**
-- _233_ countries
+**Stats**<br>
+- _234_ countries
 - _3 721_ country regions
 - _2 246 813_ inhabited localities
 
-**Translations**
+**Translations**<br>
 Russian, Ukrainian, Belorussian, English, Spanish,
 Portuguese, German, French, Italian, Polish,
 Japanese, Lithuanian, Latvian, Czech
 
-[Download from GitHub](https://github.com/x88/i18nGeoNamesDB/archive/master.zip)
-
-[Download from Yandex Disk](http://yadi.sk/d/D7dnnpFBDwkHr)
-
-[Download from Google Docs](https://drive.google.com/file/d/0BwgW554ipNgbMkJueVpQc1ZZMWs)
+**PostgreSql Dump**<br>
+[Download from Yandex Disk](http://yadi.sk/d/aFMcwRxzE6aLg)<br>
+[Download from Google Drive](https://drive.google.com/file/d/0BwgW554ipNgbTUhCX0FDTXVTM3M)<br>
+**MySql Dump**<br>
+[Download from Yandex Disk](http://yadi.sk/d/gHOIxqGkE6aKj)<br>
+[Download from Google Drive](https://drive.google.com/file/d/0BwgW554ipNgbOUV5TnJnU3p5bWc)<br>
+**CVS Dump**<br>
+Separator semicolon(;), with column header, quoted(")<br>
+[Download from Yandex Disk](http://yadi.sk/d/m3YunVqbE6aLJ)<br>
+[Download from Google Drive](https://drive.google.com/file/d/0BwgW554ipNgbOENzZmxxQ09iYms)<br>
+Separator comma(,), with column header, quoted(")<br>
+[Download from Yandex Disk](http://yadi.sk/d/Sxs2sym9E6aKR)<br>
+[Download from Google Drive](https://drive.google.com/file/d/0BwgW554ipNgbZ24zZmFOR1dNTzQ)<br>
 
 You can reward my work with a cup of coffee ;)
 
@@ -28,12 +36,12 @@ You can reward my work with a cup of coffee ;)
 
 ## База данных названий стран, регионов и населенных пунктов
 
-_**Версия**_  _1.2_
+_**Версия**_  _0.4_
 
 Наиболее полная база данных названий стран, регионов и населенных пунктов. Данные получены из социальной сети ВКонтакте.
 
 **Содержит**
-- _233_ страны
+- _234_ страны
 - _3 721_ регион
 - _2 246 813_ населенных пункта
 
@@ -43,11 +51,20 @@ _**Версия**_  _1.2_
 Португальский, Немецкий, Французский, Итальянский, Польский,
 Японский, Литовский, Латышский, Чешский
 
-[Скачать с GitHub](https://github.com/x88/i18nGeoNamesDB/archive/master.zip)
+**SQL дамп в формате PostgreSql**<br>
+[Download from Yandex Disk](http://yadi.sk/d/aFMcwRxzE6aLg)<br>
+[Download from Google Drive](https://drive.google.com/file/d/0BwgW554ipNgbTUhCX0FDTXVTM3M)<br>
+**SQL дамп в формате MySql дамп**<br>
+[Download from Yandex Disk](http://yadi.sk/d/gHOIxqGkE6aKj)<br>
+[Download from Google Drive](https://drive.google.com/file/d/0BwgW554ipNgbOUV5TnJnU3p5bWc)<br>
+**Дамп в формате CVS**<br>
+Разделитель - точка с запятой (;), с заголовком столбца, данные в двойных кавычках(")<br>
+[Download from Yandex Disk](http://yadi.sk/d/m3YunVqbE6aLJ)<br>
+[Download from Google Drive](https://drive.google.com/file/d/0BwgW554ipNgbOENzZmxxQ09iYms)<br>
+Разделитель - запятая (,), с заголовком столбца, данные в двойных кавычках(")<br>
+[Download from Yandex Disk](http://yadi.sk/d/Sxs2sym9E6aKR)<br>
+[Download from Google Drive](https://drive.google.com/file/d/0BwgW554ipNgbZ24zZmFOR1dNTzQ)<br>
 
-[Скачать с Yandex Disk](http://yadi.sk/d/D7dnnpFBDwkHr)
-
-[Скачать с Google Docs](https://drive.google.com/file/d/0BwgW554ipNgbMkJueVpQc1ZZMWs)
 
   
 
