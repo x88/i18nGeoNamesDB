@@ -52,18 +52,18 @@ _**Версия**_  _0.4_
 Японский, Литовский, Латышский, Чешский
 
 **SQL дамп в формате PostgreSql**<br>
-[Download from Yandex Disk](http://yadi.sk/d/aFMcwRxzE6aLg)<br>
-[Download from Google Drive](https://drive.google.com/file/d/0BwgW554ipNgbTUhCX0FDTXVTM3M)<br>
-**SQL дамп в формате MySql дамп**<br>
-[Download from Yandex Disk](http://yadi.sk/d/gHOIxqGkE6aKj)<br>
-[Download from Google Drive](https://drive.google.com/file/d/0BwgW554ipNgbOUV5TnJnU3p5bWc)<br>
+[Скачать архив с Яндекс Диск](http://yadi.sk/d/aFMcwRxzE6aLg)<br>
+[Скачать архив с Google Drive](https://drive.google.com/file/d/0BwgW554ipNgbTUhCX0FDTXVTM3M)<br>
+**SQL дамп в формате MySql**<br>
+[Скачать архив с Яндекс Диск](http://yadi.sk/d/gHOIxqGkE6aKj)<br>
+[Скачать архив с Google Drive](https://drive.google.com/file/d/0BwgW554ipNgbOUV5TnJnU3p5bWc)<br>
 **Дамп в формате CVS**<br>
-Разделитель - точка с запятой (;), с заголовком столбца, данные в двойных кавычках(")<br>
-[Download from Yandex Disk](http://yadi.sk/d/m3YunVqbE6aLJ)<br>
-[Download from Google Drive](https://drive.google.com/file/d/0BwgW554ipNgbOENzZmxxQ09iYms)<br>
-Разделитель - запятая (,), с заголовком столбца, данные в двойных кавычках(")<br>
-[Download from Yandex Disk](http://yadi.sk/d/Sxs2sym9E6aKR)<br>
-[Download from Google Drive](https://drive.google.com/file/d/0BwgW554ipNgbZ24zZmFOR1dNTzQ)<br>
+Разделитель - точка с запятой (;) с заголовком столбца, данные в двойных кавычках(")<br>
+[Скачать архив с Яндекс Диск](http://yadi.sk/d/m3YunVqbE6aLJ)<br>
+[Скачать архив с Google Drive](https://drive.google.com/file/d/0BwgW554ipNgbOENzZmxxQ09iYms)<br>
+Разделитель - запятая (,) с заголовком столбца, данные в двойных кавычках(")<br>
+[Скачать архив с Яндекс Диск](http://yadi.sk/d/Sxs2sym9E6aKR)<br>
+[Скачать архив с Google Drive](https://drive.google.com/file/d/0BwgW554ipNgbZ24zZmFOR1dNTzQ)<br>
 
 
   
