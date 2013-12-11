@@ -12,6 +12,8 @@ Russian, Ukrainian, Belorussian, English, Spanish,
 Portuguese, German, French, Italian, Polish,
 Japanese, Lithuanian, Latvian, Czech
 
+Encoding - utf8
+
 **PostgreSql Dump**<br>
 [Download from Yandex Disk](http://yadi.sk/d/aFMcwRxzE6aLg)<br>
 [Download from Google Drive](https://drive.google.com/file/d/0BwgW554ipNgbTUhCX0FDTXVTM3M)<br>
@@ -50,6 +52,8 @@ _**Версия**_  _0.4_
 Русский, Украiнский, Белорусский, Английский, Испанский,
 Португальский, Немецкий, Французский, Итальянский, Польский,
 Японский, Литовский, Латышский, Чешский
+
+Кодировка - utf8
 
 **SQL дамп в формате PostgreSql**<br>
 [Скачать архив с Яндекс Диск](http://yadi.sk/d/aFMcwRxzE6aLg)<br>
