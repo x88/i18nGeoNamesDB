@@ -20,7 +20,7 @@ Encoding - utf8
 **MySql Dump**<br>
 [Download from Yandex Disk](http://yadi.sk/d/gHOIxqGkE6aKj)<br>
 [Download from Google Drive](https://drive.google.com/file/d/0BwgW554ipNgbOUV5TnJnU3p5bWc)<br>
-**CVS Dump**<br>
+**CSV Dump**<br>
 Separator semicolon(;), with column header, quoted(")<br>
 [Download from Yandex Disk](http://yadi.sk/d/m3YunVqbE6aLJ)<br>
 [Download from Google Drive](https://drive.google.com/file/d/0BwgW554ipNgbOENzZmxxQ09iYms)<br>
@@ -61,7 +61,7 @@ _**Версия**_  _0.4_
 **SQL дамп в формате MySql**<br>
 [Скачать архив с Яндекс Диск](http://yadi.sk/d/gHOIxqGkE6aKj)<br>
 [Скачать архив с Google Drive](https://drive.google.com/file/d/0BwgW554ipNgbOUV5TnJnU3p5bWc)<br>
-**Дамп в формате CVS**<br>
+**Дамп в формате CSV**<br>
 Разделитель - точка с запятой (;) с заголовком столбца, данные в двойных кавычках(")<br>
 [Скачать архив с Яндекс Диск](http://yadi.sk/d/m3YunVqbE6aLJ)<br>
 [Скачать архив с Google Drive](https://drive.google.com/file/d/0BwgW554ipNgbOENzZmxxQ09iYms)<br>
