@@ -28,13 +28,6 @@ Separator comma(,), with column header, quoted(")<br>
 [Download from Yandex Disk](http://yadi.sk/d/Sxs2sym9E6aKR)<br>
 [Download from Google Drive](https://drive.google.com/file/d/0BwgW554ipNgbZ24zZmFOR1dNTzQ)<br>
 
-You can reward my work with a cup of coffee ;)
-
-  Yandex Money: 41001324403362                   
-  PayPal: elnair.rnd[at]gmail.com                  
-  Bitcoin: 1HRTCswLAm8438VXod7kqdSSJoqv2g17VT
-
-
 
 ## База данных названий стран, регионов и населенных пунктов
 
